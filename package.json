@@ -1,0 +1,15 @@
+{
+  "name": "cube-sample",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "@cubejs-backend/postgres-driver": "^0.19.61",
+    "@cubejs-backend/server": "^0.19.61",
+    "@cubejs-client/core": "^0.19.56",
+    "@cubejs-client/react": "^0.19.56",
+    "recharts": "^1.8.5"
+  }
+}
